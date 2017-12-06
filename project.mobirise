@@ -128,7 +128,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/elien-web-600x592.jpg",
+              "src": "@PROJECT_PATH@/assets/images/monstro-mussolini-540x960.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
