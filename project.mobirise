@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 55,
+    "uniqCompNum": 62,
     "versionPublish": "4.4.1",
     "favicon": "",
     "noImageResize": "",
@@ -48,22 +48,38 @@
       },
       "components": [
         {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#475577"
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
           },
-          "text": "-------------------------------------NICO---------------------------------------------------------------------------------------NICO--------------------------------------",
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x678.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0"
+          },
+          "title": "",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "color": "#fac51c"
-            }
-          },
-          "_anchor": "content1-1d"
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1l"
         },
         {
           "_styles": {
@@ -83,9 +99,9 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#f7da64"
+            "bgColor": "#faaf40"
           },
-          "title": "\n<div>NICO??????</div><br><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;WIE IS NICO?</div><br><div>\n</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Waar komt hij vandaan? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Waar gaat hij naartoe? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Heeft hij vrienden? </div><br><div>Heeft hij vijanden? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Wie knipt zijn haar? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </div><br><div>Wat vreest hij en waarover droomt hij als hij zich te slapen legt? Slaapt Nico zelfs? Of is een uurtje in het stopcontact voldoende om hem er weer bovenop te krijgen?</div><br><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Waarbovenop dan?</div><br><div> Is Nico op een missie? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Is hij een engel, gekomen om ons te berispen? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Zitten er dan gouden vleugels onder zijn trui verstopt?</div><br><div>&nbsp; &nbsp; &nbsp; &nbsp;Een aureool in zijn rugzak? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Een sint dan? Kijkt hij op ons neer, ons zijn trouwe publiek? &nbsp; &nbsp;En ziet hij ons wel scherp? </div><br><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Hoe zit dat met zijn bril? Is die legit? Is hij bijziend? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Indien niet, is hij dan verziend? Of is hij een stijlicoon...? </div><br><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Een heer en meester van de kinderlijke capuchons!</div><br><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Is hij een mens? &nbsp; Is hij een alien? &nbsp; Van welke planeet dan wel? &nbsp; En zijn er nog meer van zijn soort? </div><br><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Als die er zijn... &nbsp; &nbsp;Kunnen wij ze dan wel tegenhouden? &nbsp; &nbsp; Moeten we lopen, als we zijn schuifelpas door de gang horen?</div><br><div>WIE IS NICO?</div>",
+          "title": "\n<div><br></div><br><div>NICO??????</div><br><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;WIE IS NICO?</div><br><div>\n</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Waar komt hij vandaan? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Waar gaat hij naartoe? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Heeft hij vrienden? </div><br><div>Heeft hij vijanden? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Wie knipt zijn haar? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </div><br><div>Wat vreest hij en waarover droomt hij als hij zich te slapen legt? &nbsp; &nbsp;Slaapt Nico zelfs? &nbsp; &nbsp; &nbsp;Of is een uurtje in het stopcontact voldoende &nbsp;om &nbsp; hem &nbsp; &nbsp; &nbsp; er &nbsp; &nbsp; weer &nbsp; &nbsp;bovenop &nbsp; &nbsp; &nbsp; &nbsp;te krijgen?</div><br><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Waarbovenop dan?</div><br><div> Is Nico op een missie? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Is hij een engel, gekomen om ons te berispen? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Zitten er dan gouden vleugels onder zijn trui verstopt?</div><br><div>&nbsp; &nbsp; &nbsp; &nbsp;Een aureool in zijn rugzak? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Een sint dan? Kijkt hij op ons neer, ons zijn trouwe publiek? &nbsp; &nbsp;En ziet hij ons wel scherp? </div><br><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Hoe zit dat met zijn bril? Is die legit? Is hij bijziend? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Indien niet, is hij dan verziend? Of is hij een stijlicoon...? </div><br><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Een heer en meester van de kinderlijke capuchons!</div><br><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Is hij een mens? &nbsp; Is hij een alien? &nbsp; Van welke planeet dan wel? &nbsp; En zijn er nog meer van zijn soort? </div><br><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Als die er zijn... &nbsp; &nbsp;Kunnen wij ze dan wel tegenhouden? &nbsp; &nbsp; Moeten we lopen, als we zijn schuifelpas door de gang horen?</div><br><div>WIE IS NICO?</div><br><div><br></div>",
           "meta": "",
           "_tags": [
             "Theme"
@@ -94,22 +110,38 @@
           "_anchor": "header3-x"
         },
         {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#2969b0"
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
           },
-          "text": "-------------------------------------NICO---------------------------------------------------------------------------------------NICO--------------------------------------",
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/aaaaaaa-1999x678.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.1"
+          },
+          "title": "",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "color": "#fac51c"
-            }
-          },
-          "_anchor": "content1-1c"
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1k"
         },
         {
           "_params": {
@@ -231,10 +263,44 @@
           }
         },
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/afhehhe-1999x678.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.1"
+          },
+          "title": "",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1p"
+        },
+        {
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#28324e"
+            "bgColor": "#7e9b9f"
           },
           "text": "<p>\"NICO\" is een stripverhaal door Josse Pomme, gebaseerd op het waargebeurde verhaal van de echt bestaande Nico Vandercauwen: een menselijk enigma.</p>",
           "_tags": [
@@ -248,27 +314,43 @@
               "font-family": "'Droid Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
               "font-size": "16px",
-              "color": "#f3c649"
+              "color": "#000000"
             }
           }
         },
         {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#b8312f"
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
           },
-          "text": "-------------------------------------NICO---------------------------------------------------------------------------------------NICO--------------------------------------",
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/aaaaaaa-1999x678.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.1"
+          },
+          "title": "",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "color": "#fac51c"
-            }
-          },
-          "_anchor": "content1-1a"
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1m"
         },
         {
           "_params": {
@@ -390,10 +472,10 @@
             "showTitle": false,
             "showText": false,
             "showButton": false,
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/nico-balk-af-1999x773.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x678.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -403,7 +485,7 @@
             },
             "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.1"
           },
           "title": "",
           "text": "",
@@ -412,7 +494,7 @@
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-1f"
+          "_anchor": "msg-box8-1o"
         },
         {
           "_styles": {
@@ -454,10 +536,10 @@
             "showTitle": false,
             "showText": false,
             "showButton": false,
-            "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/nico-balk-af-1999x773.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/ah-nice-oaf-1999x678.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -485,7 +567,7 @@
             "showButtons": false,
             "inverse": false,
             "showArrow": false,
-            "imageSize": 50,
+            "imageSize": "35",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/band-nico-1999x561.png",
             "parallax": true,
@@ -521,7 +603,7 @@
             }
           },
           "title": "NICO LIGT TE KOOP IN<br>UW BOEKENWINKEL!!!",
-          "text": "Het perfecte kerstcadeau, voor uw moederken, broertjes, zusjes, vadertje en zelfs voor uw huisdierkens, want Nico is werkelijk ieders vriend!",
+          "text": "Het perfecte kerstcadeau, voor uw moederken, broertjes, zusjes, vadertje en zelfs voor uw <br>huisdierkens, want Nico is werkelijk ieders vriend!",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>",
           "_tags": [
             "Theme"

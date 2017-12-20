@@ -424,8 +424,9 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#content1-1d DIV {
-  color: #fac51c;
+#msg-box8-1l .mbr-section-title,
+#msg-box8-1l p {
+  color: #fff;
 }
 #header3-x .mbr-section-title,
 #header3-x .mbr-section-subtitle {
@@ -439,20 +440,26 @@ h6,
   font-size: 16px;
   color: #28324e;
 }
-#content1-1c DIV {
-  color: #fac51c;
+#msg-box8-1k .mbr-section-title,
+#msg-box8-1k p {
+  color: #fff;
 }
 #features1-z .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #7e9b9f;
+}
+#msg-box8-1p .mbr-section-title,
+#msg-box8-1p p {
+  color: #fff;
 }
 #content1-11 P {
   text-align: center;
   font-family: 'Droid Sans', sans-serif;
   font-size: 16px;
-  color: #f3c649;
+  color: #000000;
 }
-#content1-1a DIV {
-  color: #fac51c;
+#msg-box8-1m .mbr-section-title,
+#msg-box8-1m p {
+  color: #fff;
 }
 #testimonials2-13 .card-block {
   text-align: center;
@@ -465,8 +472,8 @@ h6,
 #testimonials2-13 .mbr-section-subtitle B {
   color: #553982;
 }
-#msg-box8-1f .mbr-section-title,
-#msg-box8-1f p {
+#msg-box8-1o .mbr-section-title,
+#msg-box8-1o p {
   color: #fff;
 }
 #social-buttons2-14 .mbr-section-title,
