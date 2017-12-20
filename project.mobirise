@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 41,
+    "uniqCompNum": 50,
     "versionPublish": "4.4.1",
     "favicon": "",
     "noImageResize": "",
@@ -48,6 +48,24 @@
       },
       "components": [
         {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#475577"
+          },
+          "text": "-------------------------------------NICO---------------------------------------------------------------------------------------NICO--------------------------------------",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#fac51c"
+            }
+          },
+          "_anchor": "content1-1d"
+        },
+        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -57,22 +75,41 @@
               "font-size": "17px"
             },
             ".mbr-section-title DIV": {
-              "font-size": "16px"
+              "font-size": "16px",
+              "color": "#28324e"
             }
           },
           "_params": {
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#efefef"
+            "bgColor": "#f7da64"
           },
-          "title": "\n<div>Nico? Wie is Nico?\n</div><div>Waar komt hij vandaan? Waar gaat hij naartoe? Heeft hij vrienden? Heeft hij vijanden? Wie knipt zijn haar? Wat vreest hij en waarover droomt hij als hij zich te slapen legt? Slaapt Nico zelfs? Of is een uurtje in het stopcontact voldoende om hem er weer bovenop te krijgen? Waarbovenop dan? Is Nico op een missie? Is hij een engel, gekomen om ons te berispen? Zitten er dan gouden vleugels onder zijn trui verstopt? En een aureool in zijn rugzak? Een sint dan? Kijkt hij op ons neer, ons zijn trouwe publiek? En ziet hij ons wel scherp? Hoe zit dat met zijn bril? Is die legit? Is hij bijziend? Indien niet, is hij dan verziend? Of is hij een stijlicoon...? Een heer en meester van de capuchons. &nbsp;Is hij een mens? Is hij een alien? Van welke planeet dan wel? En zijn er nog meer van zijn soort? Als die er zijn, kunnen wij ze dan wel tegenhouden? Moeten we lopen, als we zijn schuifelpas door de gang horen?</div>",
+          "title": "\n<div>NICO??????</div><br><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;WIE IS NICO?</div><br><div>\n</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Waar komt hij vandaan? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Waar gaat hij naartoe? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Heeft hij vrienden? </div><br><div>Heeft hij vijanden? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Wie knipt zijn haar? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </div><br><div>Wat vreest hij en waarover droomt hij als hij zich te slapen legt? Slaapt Nico zelfs? Of is een uurtje in het stopcontact voldoende om hem er weer bovenop te krijgen?</div><br><div> Waarbovenop dan?</div><br><div> Is Nico op een missie? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Is hij een engel, gekomen om ons te berispen? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Zitten er dan gouden vleugels onder zijn trui verstopt? </div><br><div>En een aureool in zijn rugzak? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Een sint dan? Kijkt hij op ons neer, ons zijn trouwe publiek? &nbsp; &nbsp;En ziet hij ons wel scherp? </div><br><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Hoe zit dat met zijn bril? Is die legit? Is hij bijziend? Indien niet, is hij dan verziend? Of is hij een stijlicoon...? </div><br><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Een heer en meester van de capuchons. </div><br><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Is hij een mens? Is hij een alien? Van welke planeet dan wel? En zijn er nog meer van zijn soort? </div><br><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Als die er zijn, kunnen wij ze dan wel tegenhouden? Moeten we lopen, als we zijn schuifelpas door de gang horen?</div><br><div>WIE IS NICO?</div>",
           "meta": "",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
           "_anchor": "header3-x"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2969b0"
+          },
+          "text": "-------------------------------------NICO---------------------------------------------------------------------------------------NICO--------------------------------------",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#fac51c"
+            }
+          },
+          "_anchor": "content1-1c"
         },
         {
           "_params": {
@@ -195,11 +232,29 @@
         },
         {
           "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#475577"
+          },
+          "text": "-------------------------------------NICO---------------------------------------------------------------------------------------NICO--------------------------------------",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#fac51c"
+            }
+          },
+          "_anchor": "content1-1b"
+        },
+        {
+          "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgColor": "#28324e"
           },
-          "text": "<p>\"NICO\" is een stripverhaal door Josse Pommo, gebaseerd op het waargebeurde verhaal van de echt bestaande Nico Vandercauwen: een menselijk enigma.</p>",
+          "text": "<p>\"NICO\" is een stripverhaal door Josse Pomme, gebaseerd op het waargebeurde verhaal van de echt bestaande Nico Vandercauwen: een menselijk enigma.</p>",
           "_tags": [
             "Theme"
           ],
@@ -217,6 +272,24 @@
         },
         {
           "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#b8312f"
+          },
+          "text": "-------------------------------------NICO---------------------------------------------------------------------------------------NICO--------------------------------------",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#fac51c"
+            }
+          },
+          "_anchor": "content1-1a"
+        },
+        {
+          "_params": {
             "showTitle": true,
             "showSubtitle": true,
             "showImages": true,
@@ -229,7 +302,7 @@
             "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#c1c1c1",
+            "bgColor": "#faaf40",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.2
@@ -238,7 +311,7 @@
           "subtitle": "<br><b>Nico's verhaal wordt verteld vanuit het perspectief van zowel de auteur,<br>als hun gemeenschappelijke vrienden...</b>",
           "testimonial": [
             {
-              "authorName": "de auteur: Josse pommo",
+              "authorName": "de auteur: Josse pomme",
               "authorBio": "",
               "text": "<p><br></p><p>\"Volgens mij is Nico een vrouwenhater. Of op zijn minst allergisch.\"</p>",
               "media": {
@@ -257,7 +330,7 @@
             {
               "authorName": "Het leven in huis: Lien Kessels",
               "authorBio": "",
-              "text": "<p>\"Nico kan overal plots opduiken! Volgens mij kan hij teleporteren.\"</p>",
+              "text": "<p><br></p><p>\"Nico kan overal plots opduiken! Volgens mij kan hij teleporteren.\"</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/lynn-opslaan-vor-weg-160x158.jpg",
@@ -274,28 +347,34 @@
             {
               "authorName": "De roddeltante: Kika Abels",
               "authorBio": "",
-              "text": "<p>\"Heeft Nico een lief?\"</p>",
+              "text": "<p><br></p><p>\"Heeft Nico een lief?\"<br></p>",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/elien-web-160x158.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
                 }
               }
             },
             {
               "authorName": "De schaakkampioen: Joachim Demoor",
               "authorBio": "",
-              "text": "<p>\"Nico is precies een pion met de allures van een koningin.\"&nbsp;</p>",
+              "text": "<p><br></p><p>\"Nico is precies een pion met de allures van een koningin.\"&nbsp;</p>",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/sint-jois-102x160.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
                 }
               }
             }
@@ -309,8 +388,33 @@
             ".card-block": {
               "text-align": "center",
               "font-size": "20px"
+            },
+            ".card-block P": {
+              "font-size": "22px",
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle B": {
+              "color": "#553982"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#475577"
+          },
+          "text": "-------------------------------------NICO---------------------------------------------------------------------------------------NICO--------------------------------------",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#fac51c"
+            }
+          },
+          "_anchor": "content1-19"
         },
         {
           "_styles": {
@@ -318,7 +422,7 @@
               "color": "#232323"
             },
             ".mbr-section-title": {
-              "color": "#b8312f",
+              "color": "#f7da64",
               "font-size": "46px"
             }
           },
@@ -330,7 +434,7 @@
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
@@ -341,6 +445,104 @@
           ],
           "_name": "social-buttons2",
           "_anchor": "social-buttons2-14"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#475577"
+          },
+          "text": "-------------------------------------NICO---------------------------------------------------------------------------------------NICO--------------------------------------",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#fac51c"
+            }
+          },
+          "_anchor": "content1-18"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "showArrow": false,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/band-nico-1999x561.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/logoo-kopie-815x815.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "NICO LIGT TE KOOP IN<br>UW BOEKENWINKEL!!!",
+          "text": "Het perfecte kerstcadeau, voor uw moederken, broertjes, zusjes, vadertje en zelfs voor uw huisdierkens, want Nico is werkelijk ieders vriend!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-16",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "left"
+            },
+            ".mbr-section-text": {
+              "text-align": "left",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "17px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#475577"
+          },
+          "text": "-------------------------------------NICO---------------------------------------------------------------------------------------NICO--------------------------------------",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-17",
+          "_styles": {
+            "DIV": {
+              "color": "#fac51c"
+            }
+          }
         }
       ]
     },

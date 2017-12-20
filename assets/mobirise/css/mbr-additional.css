@@ -1,7 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
+
 
 
 
@@ -422,6 +424,9 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#content1-1d DIV {
+  color: #fac51c;
+}
 #header3-x .mbr-section-title,
 #header3-x .mbr-section-subtitle {
   text-align: center;
@@ -432,9 +437,16 @@ h6,
 }
 #header3-x .mbr-section-title DIV {
   font-size: 16px;
+  color: #28324e;
+}
+#content1-1c DIV {
+  color: #fac51c;
 }
 #features1-z .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #7e9b9f;
+}
+#content1-1b DIV {
+  color: #fac51c;
 }
 #content1-11 P {
   text-align: center;
@@ -442,17 +454,44 @@ h6,
   font-size: 16px;
   color: #f3c649;
 }
+#content1-1a DIV {
+  color: #fac51c;
+}
 #testimonials2-13 .card-block {
   text-align: center;
   font-size: 20px;
+}
+#testimonials2-13 .card-block P {
+  font-size: 22px;
+  text-align: center;
+}
+#testimonials2-13 .mbr-section-subtitle B {
+  color: #553982;
+}
+#content1-19 DIV {
+  color: #fac51c;
 }
 #social-buttons2-14 .mbr-section-title,
 #social-buttons2-14 .btn-social {
   color: #232323;
 }
 #social-buttons2-14 .mbr-section-title {
-  color: #b8312f;
+  color: #f7da64;
   font-size: 46px;
+}
+#content1-18 DIV {
+  color: #fac51c;
+}
+#header2-16 .mbr-section-title {
+  text-align: left;
+}
+#header2-16 .mbr-section-text {
+  text-align: left;
+  font-family: 'Slabo 27px', serif;
+  font-size: 17px;
+}
+#content1-17 DIV {
+  color: #fac51c;
 }
 
 #header3-u .mbr-section-title,
