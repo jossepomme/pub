@@ -445,9 +445,6 @@ h6,
 #features1-z .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #7e9b9f;
 }
-#content1-1b DIV {
-  color: #fac51c;
-}
 #content1-11 P {
   text-align: center;
   font-family: 'Droid Sans', sans-serif;
@@ -468,8 +465,9 @@ h6,
 #testimonials2-13 .mbr-section-subtitle B {
   color: #553982;
 }
-#content1-19 DIV {
-  color: #fac51c;
+#msg-box8-1f .mbr-section-title,
+#msg-box8-1f p {
+  color: #fff;
 }
 #social-buttons2-14 .mbr-section-title,
 #social-buttons2-14 .btn-social {
@@ -479,8 +477,9 @@ h6,
   color: #f7da64;
   font-size: 46px;
 }
-#content1-18 DIV {
-  color: #fac51c;
+#msg-box8-1i .mbr-section-title,
+#msg-box8-1i p {
+  color: #fff;
 }
 #header2-16 .mbr-section-title {
   text-align: left;

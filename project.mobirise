@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 51,
+    "uniqCompNum": 55,
     "versionPublish": "4.4.1",
     "favicon": "",
     "noImageResize": "",
@@ -232,24 +232,6 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#475577"
-          },
-          "text": "-------------------------------------NICO---------------------------------------------------------------------------------------NICO--------------------------------------",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "color": "#fac51c"
-            }
-          },
-          "_anchor": "content1-1b"
-        },
-        {
-          "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgColor": "#28324e"
@@ -399,22 +381,38 @@
           }
         },
         {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#475577"
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
           },
-          "text": "-------------------------------------NICO---------------------------------------------------------------------------------------NICO--------------------------------------",
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/nico-balk-af-1999x773.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "color": "#fac51c"
-            }
-          },
-          "_anchor": "content1-19"
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1f"
         },
         {
           "_styles": {
@@ -447,22 +445,38 @@
           "_anchor": "social-buttons2-14"
         },
         {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#475577"
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
           },
-          "text": "-------------------------------------NICO---------------------------------------------------------------------------------------NICO--------------------------------------",
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/nico-balk-af-1999x773.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.1"
+          },
+          "title": "",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "color": "#fac51c"
-            }
-          },
-          "_anchor": "content1-18"
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1i"
         },
         {
           "_params": {
@@ -549,7 +563,7 @@
             },
             "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.1"
           },
           "title": "",
           "text": "",
