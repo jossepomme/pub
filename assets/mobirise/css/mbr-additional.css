@@ -490,8 +490,9 @@ h6,
   font-family: 'Slabo 27px', serif;
   font-size: 17px;
 }
-#content1-17 DIV {
-  color: #fac51c;
+#msg-box8-1e .mbr-section-title,
+#msg-box8-1e p {
+  color: #fff;
 }
 
 #header3-u .mbr-section-title,
