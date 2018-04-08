@@ -59,7 +59,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": "1.1",
+            "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#faaf40",
             "fontHoverColor": "@primaryColor"
@@ -85,10 +85,10 @@
               "color": "#faaf40"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -137,8 +137,8 @@
         {
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgColor": "#2969b0"
+            "paddingBottom": "2",
+            "bgColor": "#b8312f"
           },
           "text": "<p>.</p>",
           "_tags": [
@@ -639,7 +639,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6784.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6785.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1792,7 +1792,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6784.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6785.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
