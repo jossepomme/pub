@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "name": "jossepomme NL-clone",
     "theme": {
       "name": "mobirise3",
@@ -64,7 +64,7 @@
             "fontColor": "#faaf40",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Nico in moedertaal?<br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\"><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" target=\"_blank\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Nico in English?<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Nico in moedertaal?<br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -639,7 +639,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6786.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6787.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1078,7 +1078,7 @@
             "fontColor": "#faaf40",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Nico in moedertaal?<br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\"><br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" target=\"_blank\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Nico in English?<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" target=\"_blank\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Nico in moedertaal?<br><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1286,7 +1286,7 @@
             "paddingBottom": "2",
             "bgColor": "#faaf40"
           },
-          "title": "\n<div>NICO???</div><div><br></div><br><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;WI IS NICO?\n</div><div>&nbsp;</div><br><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Where does he come from? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Where is he going? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Does he have friends?</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Heeft hij vijanden? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Wie knipt zijn haar? </div><br><div>Wat vreest hij en waarover droomt hij als hij zich te slapen legt? &nbsp; &nbsp; &nbsp;Slaapt Nico zelfs? &nbsp; &nbsp; &nbsp; Of is een uurtje in het &nbsp; &nbsp;stopcontact &nbsp; voldoende om &nbsp; &nbsp;hem &nbsp; er weer bovenop te krijgen?</div><br><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Waarbovenop dan? </div><br><div>Is Nico op een missie? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Is hij een engel, gekomen om ons te berispen? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Zitten er dan gouden vleugels onder zijn trui verstopt? &nbsp; &nbsp; &nbsp; &nbsp; </div><br><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;En een aureool in zijn rugzak? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Een sint dan? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Kijkt hij op ons neer, ons zijn trouwe publiek? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; En ziet hij ons wel scherp? </div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Hoe zit dat met zijn bril? &nbsp; &nbsp;Is die legit?</div><br><div> Is hij bijziend? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Indien niet, is hij dan verziend? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Of is hij een stijlicoon...? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Een heer en meester van de capuchons. </div><br><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Is hij een mens? &nbsp; &nbsp; &nbsp;Is hij een alien? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Van welke planeet dan wel? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style=\"font-size: 17px;\">En zijn er nog meer van zijn soort? </span></div><br><div><span style=\"font-size: 17px;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Als die er zijn, kunnen wij ze dan wel tegenhouden? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Moeten we lopen, als we zijn schuifelpas door de gang horen?</span></div><br><div><span style=\"font-size: 17px;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;WIE IS NICO?</span></div>",
+          "title": "\n<div>NICO???</div><div><br></div><br><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;WHO IS NICO?\n</div><div>&nbsp;</div><br><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Where does he come from? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Where is he going? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Does he have friends?</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Does he have enemies? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Who cuts his hair??? </div><br><div>What does he fear and what does he dream of when he goes to sleep? &nbsp; &nbsp; &nbsp;Does Nico sleep? &nbsp; &nbsp; &nbsp; Or is an hour in the &nbsp; &nbsp; wall plug &nbsp; enough &nbsp; &nbsp;to &nbsp; get him back on track?&nbsp;</div><br><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Which track? </div><br><div>Is Nico on a mission? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Is he an angel, here to teach us? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Does he have golden wings hidden under his sweater? &nbsp; &nbsp; &nbsp; &nbsp; </div><br><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;And a halo in his backpack??? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Is he a saint? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Does he despize us, his loyal troups? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Can he see us well enough? </div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; What about those glasses? &nbsp; &nbsp;Are they legit?</div><br><div> Is he a bit blind? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And if not, is he deaf? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Or is he a fucking rockstar...? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Lord and savior of the hoody-sweaters. </div><br><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Is he human? &nbsp; &nbsp; &nbsp;Is he an alien? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; An alien of which planet then? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Are there more of his kind<span style=\"font-size: 17px;\">? </span></div><br><div><span style=\"font-size: 17px;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; If there are, can we stop them from invading? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Should we run when we hear him strolling down the hall?</span></div><br><div><span style=\"font-size: 17px;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;WHO IS NICO?</span></div>",
           "meta": "",
           "_tags": [
             "Theme"
@@ -1487,7 +1487,7 @@
             "paddingBottom": "2",
             "bgColor": "#7e9b9f"
           },
-          "text": "<p>\"NICO\" is misschien een stripverhaal door Josse Pommé, gebaseerd op het waargebeurde verhaal van de echt bestaande Nico Vandercauwen: een menselijk enigma. Ofwel is het een rap-collectief uit Ruddervoorde. Dacht ik toch? We zien nog wel. Maar er is een site, dus dat staat al vast.</p>",
+          "text": "<p>\"NICO\" might be a graphic novel based on the true story of the real Nico Vandercauwen: A human enigma. Or it might also be a Hiphop-collective from Ruddervoorde. I like to think so. We'll see. But there is a site, and that's that.</p>",
           "_tags": [
             "Theme"
           ],
@@ -1556,13 +1556,13 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.2
           },
-          "title": "De kostgangers hier:",
+          "title": "THE REGULAR STRANGERS HERE:",
           "subtitle": "",
           "testimonial": [
             {
-              "authorName": "de auteur: Josse pommo",
+              "authorName": "The author: Josse pommo",
               "authorBio": "",
-              "text": "<p><br></p><p>\"Volgenz mij is Nico een vrouwenhater. Of op zijn minst allergisch.\"</p>",
+              "text": "<p><br></p><p>\"I think Nico hates the ladies. He's afraid of them, or at least allergic.\"</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/img-2201-116x160.jpg",
@@ -1577,9 +1577,9 @@
               }
             },
             {
-              "authorName": "Het leven in huis: Lien Kessels",
+              "authorName": "The noisy girl: Lien Kessels",
               "authorBio": "",
-              "text": "<p>\"Nico kan overal plots opduiken! Volgens mij kan hij teleporteren.\"</p>",
+              "text": "<p>\"Nico can just appear at any time. I think he can teleport.\"</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/lynn-opslaan-vor-weg-160x158.jpg",
@@ -1594,9 +1594,9 @@
               }
             },
             {
-              "authorName": "De roddeltante: Kika Abels",
+              "authorName": "The other noisy girl: Kika Abels",
               "authorBio": "",
-              "text": "<p>\"Heeft Nico een lief?\"</p>",
+              "text": "<p>\"Does Nico have a girlfriend?\"</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/hoofd-153x160.jpg",
@@ -1611,9 +1611,9 @@
               }
             },
             {
-              "authorName": "De schaakkampioen: Joachim Demoor",
+              "authorName": "The chess-champion: Joachim Demoor",
               "authorBio": "",
-              "text": "<p>\"Wat dafuk is dit voor rare kankersite? Is dit een grap of bestaat er echt zoiets als een stripverhaal over een zekere Nico?\"&nbsp;</p>",
+              "text": "<p>\"What in gods name is this shit website? Is this a joke or is there really something like a comic about some Nico?\"&nbsp;</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/kopp-154x160.jpg",
@@ -1653,7 +1653,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6786.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6787.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1696,7 +1696,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "text": "Het verhol speelt zicgh af te GAnt, voor sommigen een sociale riaalput maar voor NOco,<br>zoals alles, een pretpark.",
+          "text": "The story takes plaze in Gent. <br>For som a sociaL Sewer but for<br>Nico, like everything else, an <br>Amusement parck.",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"></a>          ",
           "_tags": [
             "Theme"
@@ -1798,8 +1798,8 @@
               "size": 250
             }
           },
-          "title": "NICO LIGT TE KOOP IN <br>UW BOEKENWINKEL!!!<br>OF toch Nog NIET!?",
-          "text": "<b>Het perfecte kerstcadeau</b><b>&nbsp;voor uw moeder,</b><br><b> uw broers, zussen, uw </b><b>vader</b><b>en zelfs uw </b><br><b>huisdieren, want Nico is werkelijk ieders vriend!</b>",
+          "title": "NICO IS &nbsp;AVAILABLE IN YOUR LOCAL BOOKSTORE!!! OR NOT!?",
+          "text": "<font face=\"Oxygen, sans-serif\"><span style=\"font-size: 18px;\"><b>The perfect bat mitzvah gift for your</b></span></font><br><font face=\"Oxygen, sans-serif\"><span style=\"font-size: 18px;\"><b>mothers, fathers, baby-boys and baby-girls,</b></span></font><br><font face=\"Oxygen, sans-serif\"><span style=\"font-size: 18px;\"><b>and even for your pets, because Nico is truy</b></span></font><br><font face=\"Oxygen, sans-serif\"><span style=\"font-size: 18px;\"><b>everybody's friend!</b></span></font>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>",
           "_tags": [
             "Theme"
