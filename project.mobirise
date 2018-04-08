@@ -181,7 +181,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/lynn-web-600x592.jpg",
+              "src": "@PROJECT_PATH@/assets/images/josse-lynn-boll-600x592.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -192,7 +192,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/elienen-web-600x592.jpg",
+              "src": "@PROJECT_PATH@/assets/images/elienn-bollen-600x592.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -203,7 +203,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/elien-web-600x592.jpg",
+              "src": "@PROJECT_PATH@/assets/images/elien-bollen-600x592.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -463,7 +463,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6780.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6781.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
