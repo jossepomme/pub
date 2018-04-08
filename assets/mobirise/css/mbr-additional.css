@@ -590,6 +590,17 @@ h6,
   color: #fac51c;
 }
 
+#content1-2s P {
+  text-align: center;
+  font-family: 'Droid Sans', sans-serif;
+  font-size: 16px;
+  color: #000000;
+}
+#msg-box8-2t .mbr-section-title,
+#msg-box8-2t p {
+  color: #fff;
+}
+
 
 
 #ext_menu-2a .hide-buttons .nav-btn {
@@ -741,4 +752,72 @@ h6,
 #msg-box8-2p .mbr-section-title,
 #msg-box8-2p p {
   color: #fff;
+}
+
+#ext_menu-2v .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-2v .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-2v .navbar-toggler {
+  color: #faaf40;
+}
+#ext_menu-2v .close-icon::before,
+#ext_menu-2v .close-icon::after {
+  background-color: #faaf40;
+}
+#ext_menu-2v .link,
+#ext_menu-2v .dropdown-item {
+  color: #faaf40;
+}
+#ext_menu-2v .link {
+  font-size: 0.85rem;
+}
+#ext_menu-2v .dropdown-item,
+#ext_menu-2v .nav-dropdown-sm .link {
+  font-size: 0.921rem;
+}
+#ext_menu-2v .link:hover,
+#ext_menu-2v .dropdown-item:hover,
+#ext_menu-2v .link:focus,
+#ext_menu-2v .dropdown-item:focus {
+  color: #7e9b9f;
+}
+#ext_menu-2v .link[aria-expanded="true"],
+#ext_menu-2v .dropdown-menu {
+  background: #0e0e0e;
+}
+#ext_menu-2v .nav-dropdown-sm .link:focus,
+#ext_menu-2v .nav-dropdown-sm .link:hover,
+#ext_menu-2v .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-2v .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#ext_menu-2v .navbar,
+#ext_menu-2v .nav-dropdown-sm,
+#ext_menu-2v .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-2v .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#ext_menu-2v .bg-color.transparent .link {
+  color: #faaf40;
+  transition: none;
+}
+#ext_menu-2v .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-2v .bg-color.transparent.opened .link:hover,
+#ext_menu-2v .bg-color.transparent.opened .link:focus {
+  color: #7e9b9f;
+}
+#ext_menu-2v .link[aria-expanded="true"],
+#ext_menu-2v .dropdown-item[aria-expanded="true"] {
+  color: #7e9b9f!important;
+}
+#content1-2w P {
+  text-align: center;
+  font-family: 'Droid Sans', sans-serif;
+  font-size: 16px;
+  color: #000000;
 }
