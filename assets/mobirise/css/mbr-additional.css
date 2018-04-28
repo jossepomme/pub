@@ -2,7 +2,6 @@
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
-@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
 
 
 
@@ -574,20 +573,6 @@ h6,
 #msg-box8-1r .mbr-section-title,
 #msg-box8-1r p {
   color: #fff;
-}
-
-#header3-u .mbr-section-title,
-#header3-u .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-u .mbr-section-title {
-  font-size: 19px;
-  font-family: 'Droid Serif', serif;
-  color: #c0a375;
-  text-align: left;
-}
-#features3-v H5 {
-  color: #fac51c;
 }
 
 #content1-2s P {

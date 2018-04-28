@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page5.html",
+    "currentPage": "page3.html",
     "name": "jossepomme NL-clone",
     "theme": {
       "name": "mobirise3",
@@ -42,7 +42,7 @@
       "settings": {
         "main": true,
         "title": "home",
-        "meta_descr": "mobirise, josse pomme LUCA, beeldende kunst, graphic novel, Nico",
+        "meta_descr": "mobirise, josse pomme LUCA, beeldende kunst, graphic novel, Nico\ncopyright josse pomme",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -639,7 +639,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6785.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6786.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -829,160 +829,6 @@
         }
       ]
     },
-    "page4.html": {
-      "settings": {
-        "meta_descr": "Website Maker Description",
-        "title": "nico",
-        "order": 5
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-size": "19px",
-              "font-family": "'Droid Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
-              "color": "#c0a375",
-              "text-align": "left"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "2",
-            "paddingBottom": "3",
-            "bgColor": "#28324e"
-          },
-          "title": "<br>Nico? Wie is Nico?<br>Waar komt hij vandaan? Waar gaat hij naartoe? Heeft hij vrienden? Heeft hij vijanden? Wie knipt zijn haar? Wat vreest hij en waarover droomt hij als hij zich te slapen legt? Slaapt Nico zelfs? Of is een uurtje in het stopcontact voldoende om hem er weer bovenop te krijgen? Waarbovenop dan? Is Nico op een missie? Is hij een engel, gekomen om ons te berispen? Zitten dan gouden vleugels onder zijn truien verstopt? En een aureool in zijn rugzak? Een sint dan? Kijkt hij op ons neer, ons zijn trouwe publiek? en ziet hij ons wel scherp dan? Hoe zit dat met zijn bril? Is dat echt? Is hij bijziend? Verzien? Of is hij een stijlicoon... Een heer en meester van &nbsp;Is hij een mens? Is hij een alien? Van welke planeet dan wel? En zijn er nog meer van zijn soort? Als die er zijn, kunnen wij ze dan wel tegenhouden? Moeten we lopen, als we zijn schuifelpas door de gang horen?",
-          "meta": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-u"
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": false,
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "columns": 4,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#7c706b",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/lynn-voor-site-600x592.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/lynn-voor-sitedd-600x592.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/elien-site-600x592.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/elien-sitee-600x592.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "",
-          "subtitle1": "-----------------------------------Nico---------------------------------------",
-          "caption1": "",
-          "title2": "",
-          "subtitle2": "----------------------------Une bande dessinée-------------------------",
-          "caption2": "",
-          "title3": "",
-          "subtitle3": "-------------------------------------Nico-------------------------------------",
-          "caption3": "",
-          "title4": "",
-          "subtitle4": "---------------------------une bande dessinée--------------------------",
-          "caption4": "",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"></a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"></a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"></a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"></a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_anchor": "features3-v",
-          "_styles": {
-            "H5": {
-              "color": "#fac51c"
-            }
-          }
-        }
-      ]
-    },
     "page2.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
@@ -1054,7 +900,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6785.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6786.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1209,7 +1055,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "61",
+            "imageSize": "65",
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
@@ -1677,7 +1523,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6785.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6786.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2017,7 +1863,7 @@
     },
     "page6.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
+        "meta_descr": "copyright josse pomme",
         "title": "mystery page",
         "order": 1
       },
