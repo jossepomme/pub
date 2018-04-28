@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page6.html",
+    "currentPage": "page3.html",
     "name": "jossepomme NL-clone",
     "theme": {
       "name": "mobirise3",
@@ -639,7 +639,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6782.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6783.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -683,7 +683,7 @@
             "overlayOpacity": 0.5
           },
           "text": "Het verhol speelt zicgh af te GAnt, voor sommigen een sociale riaalput maar voor NOco,<br>zoals alles, een pretpark.",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"></a>          ",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Twitter\" target=\"_blank\" href=\"page6.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\">18+</a>          ",
           "_tags": [
             "Theme"
           ],
@@ -1054,7 +1054,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6782.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6783.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1677,7 +1677,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6782.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6783.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1721,7 +1721,7 @@
             "overlayOpacity": 0.5
           },
           "text": "The story takes plaze in Gent. <br>For som a sociaL Sewer but for<br>Nico, like everything else, an <br>Amusement parck.",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\">18+</a>          ",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Twitter\" target=\"_blank\" href=\"page6.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\">18+</a>          ",
           "_tags": [
             "Theme"
           ],
