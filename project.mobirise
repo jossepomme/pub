@@ -639,7 +639,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6788.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6789.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -900,7 +900,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6788.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6789.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1047,7 +1047,7 @@
               "color": "#fff"
             },
             "H3": {
-              "text-align": "left",
+              "text-align": "right",
               "font-size": "46px"
             }
           },
@@ -1056,7 +1056,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "65",
+            "imageSize": "70",
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
@@ -1524,7 +1524,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6788.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6789.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
