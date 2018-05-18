@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page5.html",
+    "currentPage": "index.html",
     "name": "jossepomme NL-clone",
     "theme": {
       "name": "mobirise3",
@@ -639,7 +639,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6780.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6781.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -900,7 +900,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6780.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6781.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1524,7 +1524,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6780.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6781.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
