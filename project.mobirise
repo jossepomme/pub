@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page3.html",
+    "currentPage": "page5.html",
     "name": "jossepomme NL-clone",
     "theme": {
       "name": "mobirise3",
@@ -340,7 +340,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/lynn-bollen-web-600x592.jpg",
+              "src": "@PROJECT_PATH@/assets/images/josse-pomme-lynn.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -351,7 +351,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/josse-lynn-boll-600x592.jpg",
+              "src": "@PROJECT_PATH@/assets/images/josse-pomme-lynnn.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -362,7 +362,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/elienn-bollen-600x592.jpg",
+              "src": "@PROJECT_PATH@/assets/images/josse-pomme-vrouw.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -373,7 +373,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/elien-bollen-600x592.jpg",
+              "src": "@PROJECT_PATH@/assets/images/josse-pomme-vrouwtje.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -551,7 +551,7 @@
               "text": "<p><br></p><p>\"Volgenz mij is Nico een vrouwenhater. Of op zijn minst allergisch.\"</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/img-2201-116x160.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/josse-pomme-josse-2.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -568,7 +568,7 @@
               "text": "<p>\"Nico kan overal plots opduiken! Volgens mij kan hij teleporteren.\"</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/lynn-opslaan-vor-weg-160x158.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/josse-pomme-lynn.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -585,7 +585,7 @@
               "text": "<p>\"Heeft Nico een lief?\"</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/hoofd-153x160.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/josse-pomme-trut.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -602,7 +602,7 @@
               "text": "<p>\"Wat dafuk is dit voor rare kankersite? Is dit een grap of bestaat er echt zoiets als een stripverhaal over een zekere Nico?\"&nbsp;</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/kopp-154x160.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/josse-pomme-kerel.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -639,7 +639,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6789.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6780.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -900,7 +900,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6789.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6780.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1076,7 +1076,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/nikoo-865x864.jpg",
+              "src": "@PROJECT_PATH@/assets/images/nikoo.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1225,7 +1225,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/lynn-bollen-web-600x592.jpg",
+              "src": "@PROJECT_PATH@/assets/images/josse-pomme-lynn.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1236,7 +1236,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/josse-lynn-boll-600x592.jpg",
+              "src": "@PROJECT_PATH@/assets/images/josse-pomme-lynnn.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1436,7 +1436,7 @@
               "text": "<p><br></p><p>\"I think Nico hates the ladies. He's afraid of them, or at least allergic.\"</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/img-2201-116x160.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/josse-pomme-josse-3.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -1453,7 +1453,7 @@
               "text": "<p>\"Nico can just appear at any time. I think he can teleport.\"</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/lynn-opslaan-vor-weg-160x158.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/josse-pomme-lynn.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -1487,7 +1487,7 @@
               "text": "<p>\"What in gods name is this shit website? Is this a joke or is there really something like a comic about some Nico?\"&nbsp;</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/kopp-154x160.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/josse-pomme-kerel.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -1524,7 +1524,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6789.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/aeheh-1999x6780.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1837,7 +1837,7 @@
             "showText": false,
             "showButtons": false,
             "showArrow": false,
-            "contentAlign": "left",
+            "contentAlign": "center",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/haarol.jpg",
             "parallax": true,
@@ -1963,7 +1963,7 @@
             "showArrow": false,
             "imageSize": "37",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/niko-ac-hterg.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/josse-pomme-dreupeltje.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -1996,7 +1996,7 @@
               "size": 250
             }
           },
-          "title": "Al Raits gereserveerd&nbsp;<br>Niko en de ghost of mickal jekson will cum for you if you steel de art",
+          "title": "Al Raits gereserveerd&nbsp;<br>Niko en de ghost of Smikkel jekson will cum for you if you steel de art",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>",
           "_tags": [
